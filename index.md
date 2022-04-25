@@ -17,8 +17,8 @@ DMP Roles:
 - Access control: Eric Parrish
 - Software creation and maintenance: CUAHSI (https://www.cuahsi.org/)
 - Instrumentation maintenance: Lab managers at Keck Lab (OSU: cations), LBNL Field Lab (located in Crested Butte: anions and isotopes), LBNL (UC Berkeley: trace metals and radon)
-- Data analysis: Lab techs from the labs described in bullet “e”
-- Quality control: Keira Johnson/lab techs described in bullet “e”
+- Data analysis: Lab techs from the labs described in instrumentation maintenance above
+- Quality control: Keira Johnson/lab techs described in instrumentation maintenance above
 - Data collection/data generation: Keira Johnson
 - Data organization: Keira Johnson
 - Metadata generation: Keira Johnson
