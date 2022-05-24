@@ -32,3 +32,11 @@ During the project my data is stored within Box and backed up to an external har
 The Box drive is shared with PI so when I graduate it will continue to be available and will not be lost.  The data is currently being organized to be uploaded to Hydroshare, an open source online data, code, and models data base for hydrologic data. This data will be shared with the NSF, our funder. These data will be stored there as soon as I finish organizing but will not be made publicly available until the paper I am working on that uses the data is published. In total there will be 3 copies at the end of the project (Box, Hydroshare, External hard drive) plus the ability to run samples again if need be.
 
 # Archiving and preservation
+
+The following answers are applicable to both the raw data collected and the modeled data output.
+
+There are no factors that limit the availability of the data; it does not contain any sensitive information.
+
+My data will be made publicly available after publication of the paper I am working on – probably no later than summer 2023. It will be published on HydroShare, a data repository for hydrology-related data. Data and metadata will be published as csvs, and code will be published as R files. Code will also be on my GitHub page. This data will be published under Creative Commons license, with the expectation that people will cite me if they are using the data (a common and expected practice in academia).
+
+My data will be archived and preserved both on HydroShare and on our lab Box Drive. I am unsure how long it will be on either of those; our lab is relatively new and we don’t have standards for how long data is preserved. I am unsure about how long data stays on HydroShare, but it is my understanding that it is up there for as long as HydroShare is active. Data and code can be accessed simply by downloading from HydroShare. If an individual is in our lab, they will have access to the Box drive and will be able to access it also by downloading it. All data and metadata will be preserved as csvs and all code will be in R files.
