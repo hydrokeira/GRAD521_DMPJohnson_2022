@@ -25,18 +25,15 @@ DMP Roles:
 
 # Data standards and metadata
 
+
 # Storage and security
-During the project my data is stored within Box and backed up to an external hard drive. The Box folder is a shared folder with Pam (PI) and backed up to the cloud. I back up my computer to my external hard drive at least weekly, but usually multiple times each week. All physical samples are stored in a fridge at LBNL in Berkeley, California. These can be rerun if need be. The data are not confidential.
+During the project, data is stored within Box and backed up to an external hard drive. The Box folder is a shared folder with all lab members and backed up to the cloud. Data is backed up to an external hard drive at  weekly. All physical samples are stored in a fridge at LBNL in Berkeley, California and can be rerun for additional analyses. They are preserved with nitric acid to preserve concentrations and prevent sorption. The data are not confidential.
 
 # Access and data sharing
-The Box drive is shared with PI so when I graduate it will continue to be available and will not be lost.  The data is currently being organized to be uploaded to Hydroshare, an open source online data, code, and models data base for hydrologic data. This data will be shared with the NSF, our funder. These data will be stored there as soon as I finish organizing but will not be made publicly available until the paper I am working on that uses the data is published. In total there will be 3 copies at the end of the project (Box, Hydroshare, External hard drive) plus the ability to run samples again if need be.
+The Box drive is shared, ensuring others will be able to access it once I graduate. The data is currently being organized to be uploaded to Hydroshare, an open source online data, code, and models data base for hydrologic data. This data will be shared with NSF, our funder. While the data will be stored on Hydroshare, they will not be made publicly available until publication. In total there will be 3 copies at the end of the project (Box, Hydroshare, External hard drive), plus the ability to run samples again if need be.
 
 # Archiving and preservation
 
-The following answers are applicable to both the raw data collected and the modeled data output.
-
 There are no factors that limit the availability of the data; it does not contain any sensitive information.
 
-My data will be made publicly available after publication of the paper I am working on –  no later than summer 2023. It will be published on HydroShare, a data repository for hydrology-related data. Data and metadata will be published as csvs, and code will be published as R files. Code will also be on my GitHub page. This data will be published under Creative Commons license so that it is free to use, share, and add to, with the expectation that people will cite me if they are using the data (a common and expected practice in academia).
-
-My data will be archived and preserved both on HydroShare and on our lab Box Drive. I am unsure how long it will be available; our lab is relatively new and we don’t have standards for how long data is preserved. On HydroShare, it is my understanding that it is up there for as long as HydroShare is active. Data and code can be accessed simply by downloading from HydroShare. If an individual is in our lab, they will have access to the Box drive and will be able to access it also by downloading it. All data and metadata will be preserved as csvs and all code will be in R files.
+My data will be made publicly available on Hydroshare after publication –  no later than summer 2023. Data and metadata will be published as csvs, and code will be published as R files. Code will also be on my GitHub page. This data will be published under Creative Commons license such that it is free to use, share, and add to, with the expectation that people will cite me if they are using the data (a common and expected practice in academia). Data will be publically available for as long as Hydroshare is active. They will also continue to be shared with the lab via Box. Articles relating to the data will be published in journals and data sets will be linked via DOI from the journal.
