@@ -8,16 +8,16 @@ Springs were also located and sampled around the watershed. Samples from the spr
 The data management plan will be implemented by myself, Pamela Sullivan (PI), and Eric Parrish (NSF Data Manager, Critical Zone Network). Eric Parrish facilitates the actual sharing of data to NSF and the public, but I will be doing the organizing, metadata creation, and QA/QC on the data. Pamela Sullivan, the PI of our lab and co-PI on the grant funded by NSF, facilitates sharing between myself and Eric Parrish, but does not do any of the physical data handling. There is no additional data added to this data set; once it is published on Hydroshare additional maintenance should not be necessary. 
 
 #### DMP Roles:
-•	Archiving and preservation: Eric Parrish
-•	Data manager: Eric Parrish
-•	Access control: Eric Parrish
-•	Software creation and maintenance: CUAHSI (https://www.cuahsi.org/)
-•	Instrumentation maintenance: Lab managers at Keck Lab (OSU: cations), LBNL Field Lab (located in Crested Butte: anions and isotopes), LBNL (UC Berkeley: trace metals and radon)
-•	Data analysis: Lab techs from the labs described in instrumentation maintenance above
-•	Quality control: Keira Johnson/lab techs described in instrumentation maintenance above
-•	Data collection/data generation: Keira Johnson
-•	Data organization: Keira Johnson
-•	Metadata generation: Keira Johnson
+- Archiving and preservation: Eric Parrish
+- Data manager: Eric Parrish
+- Access control: Eric Parrish
+- Software creation and maintenance: CUAHSI (https://www.cuahsi.org/)
+- Instrumentation maintenance: Lab managers at Keck Lab (OSU: cations), LBNL Field Lab (located in Crested Butte: anions and isotopes), LBNL (UC Berkeley: trace metals and radon)
+- Data analysis: Lab techs from the labs described in instrumentation maintenance above
+- Quality control: Keira Johnson/lab techs described in instrumentation maintenance above
+- Data collection/data generation: Keira Johnson
+- Data organization: Keira Johnson
+- Metadata generation: Keira Johnson
 
 # Data standards and metadata
 I will be using metadata standards required by NSF for publication of data on HydroShare. The following methods describe how each data type described above will be documented.
